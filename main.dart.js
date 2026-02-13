@@ -61637,8 +61637,8 @@ case 5:return A.F(null,r)
 case 1:return A.E(p.at(-1),r)}})
 return A.G($async$pQ,r)},
 S(a){var s=null,r=A.MO(20)
-return new A.ol(A.a8N(new A.Ei(new A.zu(8,new A.cz(r,B.r),B.zf,A.a8R(this.e?A.acw(A.d([B.zM,B.hT,B.Mz,B.uN,B.MB,B.uO,B.My],t.nA),B.hd):this.Qn(),s,s,s,s,B.zg,450),s),s),s,s),B.jh,s)},
-Qn(){var s,r,q=this,p=null,o=A.aoc(0,"es_CO","$"),n=A.d([B.zL,B.hT,B.MC,B.yW,q.UA("Referencia:",q.a.c),B.uN,q.DP("Total a Pagar:",o.a0E(q.a.d),!0),B.uO],t.nA),m=q.f
+return new A.ol(A.a8N(new A.Ei(new A.zu(8,new A.cz(r,B.r),B.zf,A.a8R(this.e?A.acw(A.d([B.zM,B.hT,B.Mz,B.uN,B.MC,B.uO,B.My],t.nA),B.hd):this.Qn(),s,s,s,s,B.zg,450),s),s),s,s),B.jh,s)},
+Qn(){var s,r,q=this,p=null,o=A.aoc(0,"es_CO","$"),n=A.d([B.zL,B.hT,B.MB,B.yW,q.UA("Referencia:",q.a.c),B.uN,q.DP("Total a Pagar:",o.a0E(q.a.d),!0),B.uO],t.nA),m=q.f
 if(m!=null)n.push(A.a8R(A.aa4("\u26a0\ufe0f "+m,A.mc(p,p,B.jo,p,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)),B.jc,p,p,B.zc,B.zd,p))
 m=A.amo(p,p,B.f7,p,p,p,p,p,p,p,p,p,p,p,new A.cz(A.MO(10),B.r),p,p,p,p,p)
 s=q.d
@@ -66094,9 +66094,9 @@ B.Mx=new A.hz("PAGAR AHORA",null,B.LV,null,null)
 B.My=new A.hz("Ya puedes cerrar esta ventana.",null,B.v1,null,null)
 B.IB=new A.i(!0,B.f7,null,null,null,null,24,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Mz=new A.hz("\xa1Transacci\xf3n Aprobada!",null,B.IB,null,null)
-B.MB=new A.hz("Hemos notificado al comercio.",null,null,B.d8,null)
 B.Ji=new A.i(!0,null,null,null,null,null,22,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.MC=new A.hz("Portal de Pagos Seguro",null,B.Ji,null,null)
+B.MB=new A.hz("Portal de Pagos Seguro",null,B.Ji,null,null)
+B.MC=new A.hz("Hemos notificado al usuario.",null,null,B.d8,null)
 B.OZ=new A.a0p(0,"system")
 B.MD=new A.vu(null)
 B.i0=new A.EM(0,"clamp")
